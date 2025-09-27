@@ -3,7 +3,7 @@ namespace Subjects {
     teacher!: Teacher;
 
     // The checker expects this exact signature
-    setTeacher(teacher: Teacher) {
+    setTeacher(teacher:Teacher) {
       this.teacher = teacher;
     }
   }
